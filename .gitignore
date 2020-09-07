@@ -1,0 +1,7 @@
+venv/
+.idea/
+
+data/*.zip
+data/**/*.txt
+
+#komentar!
